@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # music-service-challenge
-=======
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
->>>>>>> a9cb749 (Initial commit from Create Next App)
+## This is a pretty neat project.
+
+### TODO:
+1. Actually fetch and render data from server. (Completed)
+2. Render it out properly
+3. add in JWT for each request
